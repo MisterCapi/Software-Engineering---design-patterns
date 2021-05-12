@@ -55,7 +55,7 @@ private:
 };
 
 
-class WebScrapper {
+class WebScraper {
 public:
     string gatherInformationOnCompany(string companyName){
         cout << "WebScprapper gathered info on " << companyName << endl;
@@ -66,9 +66,9 @@ public:
 
 class CompanyInfoAPI {
 public:
-    CompanyInfoAPI(DataBase* db, WebScrapper* ws){
+    CompanyInfoAPI(DataBase* db, WebScraper* ws){
         this->database = *db;
-        this->webScrapper = *ws;
+        this->webscraper = *ws;
     }
 
     string getInformationOnCompany(string companyName){
@@ -76,8 +76,8 @@ public:
             return database.getInformationOnCompany(companyName);
         }
         else{
-            cout << "No info on " << companyName << " in database, launching webscrapper" << endl;
-            string informations = webScrapper.gatherInformationOnCompany(companyName);
+            cout << "No info on " << companyName << " in database, launching webscraper" << endl;
+            string informations = webscraper.gatherInformationOnCompany(companyName);
             database.addInformationOnCompany(companyName, informations);
             return informations;
         }
@@ -85,7 +85,7 @@ public:
 
 private:
     DataBase database;
-    WebScrapper webScrapper;
+    WebScraper webscraper;
 };
 
 
@@ -111,7 +111,7 @@ private:
 int main() {
     //Backend
     DataBase* db = new DataBase();
-    WebScrapper* ws = new WebScrapper();
+    WebScraper* ws = new WebScraper();
     CompanyInfoAPI* api = new CompanyInfoAPI(db, ws);
 
     //User
