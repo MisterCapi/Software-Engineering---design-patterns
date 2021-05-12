@@ -1,0 +1,20 @@
+No info on Microsoft in database, launching webscraper
+WebScprapper gathered info on Microsoft
+DataBase added info on Microsoft
+Informations about Microsoft
+
+No info on Amazon in database, launching webscraper
+WebScprapper gathered info on Amazon
+DataBase added info on Amazon
+Informations about Amazon
+
+No info on Apple in database, launching webscraper
+WebScprapper gathered info on Apple
+DataBase added info on Apple
+Informations about Apple
+
+DataBase found and returned info on Microsoft
+Informations about Microsoft
+
+DataBase found and returned info on Amazon
+Informations about Amazon
