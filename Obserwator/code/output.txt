@@ -1,0 +1,14 @@
+Player has lost 16 HP, now has 184 HP
+Player has lost 24 HP, now has 160 HP
+Player has lost 7 HP, now has 153 HP
+Player has lost 24 HP, now has 129 HP
+Player has lost 7 HP, now has 122 HP
+Player has lost 16 HP, now has 106 HP
+Player has lost 24 HP, now has 82 HP
+Player has lost 7 HP, now has 75 HP
+Player has lost 16 HP, now has 59 HP
+Player has lost 7 HP, now has 52 HP
+Player has lost 26 HP, now has 26 HP
+Player has lost 24 HP, now has 2 HP
+Player has lost 7 HP, now has 0 HP
+Player is dead!
