@@ -1,0 +1,3 @@
+Volume was set to 8.15
+Brightness was set to 1.25
+Setting "marchew" is not implemented yet
