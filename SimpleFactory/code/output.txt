@@ -1,0 +1,3 @@
+PC (strong_PC) is using GPUs to compute
+RTX3080 is computing matrices very fast
+RTX3070 is computing matrices
