@@ -1,0 +1,11 @@
+Creating original car:
+CarPrototype Constructor was called with: speed - 298, name - Porshe 991
+FastCar Constructor was called with: speed - 298, name - Porshe 991, turbo - 1
+
+Copying the car:
+CarPrototype Copying Constructor was called with: speed - 298, name - Porshe 991
+FastCar Copying Constructor was called with: turbo - 1
+
+Proof that objects have been copied:
+Original car address: 0xfe1718
+Copied car address: 0xfe1748
