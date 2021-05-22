@@ -1,0 +1,7 @@
+Direct call to the database:
+Normal querry was executed
+DROP DATABASE was executed, the valuable data is lost :O
+
+Calling database trough proxy:
+Normal querry was executed
+DROP DATABASE was caught by proxy, the valuable data is safe :)

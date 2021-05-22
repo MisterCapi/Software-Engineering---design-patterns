@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/miste/Desktop/Inzyneria oprogramowania/DesignPatternChallenge/Software-Engineering---design-patterns/Iterator/code/main.cpp
+iostream
+-
+vector
+-
+
