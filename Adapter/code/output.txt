@@ -1,0 +1,6 @@
+Normal calc on csv
+I am doing calculations for csv file
+
+Calculation on json trough adapter
+I am converting json data to csv format
+I am doing calculations for csv file

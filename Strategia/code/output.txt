@@ -1,0 +1,40 @@
+Trying diffecrent algos:
+
+KNN Classifier is training:
+[---------] accuracy: 0.000113751
+[>--------] accuracy: 0.142144
+[>>-------] accuracy: 0.199391
+[>>>------] accuracy: 0.346249
+[>>>>-----] accuracy: 0.416819
+[>>>>>----] accuracy: 0.49817
+[>>>>>>---] accuracy: 0.577299
+[>>>>>>>--] accuracy: 0.717815
+[>>>>>>>>-] accuracy: 0.802076
+[>>>>>>>>>] accuracy: 0.886055
+KNN accuracy on testing set: 83.4822 %
+
+SVM Classifier is training:
+[---------] accuracy: 0.0780858
+[>--------] accuracy: 0.1555
+[>>-------] accuracy: 0.228503
+[>>>------] accuracy: 0.300363
+[>>>>-----] accuracy: 0.364999
+[>>>>>----] accuracy: 0.462855
+[>>>>>>---] accuracy: 0.578587
+[>>>>>>>--] accuracy: 0.649756
+[>>>>>>>>-] accuracy: 0.742354
+[>>>>>>>>>] accuracy: 0.908048
+SVM accuracy on testing set: 88.9138 %
+
+RandomForest Classifier is training:
+[---------] accuracy: 0.0108257
+[>--------] accuracy: 0.0913336
+[>>-------] accuracy: 0.182628
+[>>>------] accuracy: 0.30708
+[>>>>-----] accuracy: 0.411969
+[>>>>>----] accuracy: 0.506471
+[>>>>>>---] accuracy: 0.60016
+[>>>>>>>--] accuracy: 0.691561
+[>>>>>>>>-] accuracy: 0.742385
+[>>>>>>>>>] accuracy: 0.878459
+RandomForest accuracy on testing set: 89.0158 %

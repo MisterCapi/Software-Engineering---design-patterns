@@ -1,0 +1,13 @@
+Add commands:
+Executed command: git add *.txt
+Executed command: git add *.exe
+Rollback commands:
+Rolled back changes: git add *.txt
+Rolled back changes: git add *.exe
+
+Add commands:
+Executed command: git add *.json
+Executed command: git add *.yaml
+Push local changes to remote:
+git add *.json has affected code stored in remote repo
+git add *.yaml has affected code stored in remote repo

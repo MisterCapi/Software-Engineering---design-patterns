@@ -1,0 +1,6 @@
+Create docs...
+Archive them...
+Restore last archived (should be doc3 .. to 1)
+DOC3
+DOC2
+DOC1
