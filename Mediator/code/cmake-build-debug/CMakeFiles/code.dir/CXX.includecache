@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/miste/Desktop/Inzyneria oprogramowania/DesignPatternChallenge/Software-Engineering---design-patterns/Mediator/code/main.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+

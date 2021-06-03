@@ -1,0 +1,9 @@
+Ranged enemy:
+swift move
+ranged attack
+swift move
+
+Melee enemy:
+swift move
+melee attack
+swift move

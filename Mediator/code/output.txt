@@ -1,0 +1,26 @@
+SHIP #0 :: Ship can move freely
+SHIP #1 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #2 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #3 :: Ships have crashed
+SHIP #4 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #5 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #6 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #7 :: Enemy ship was hit by attack
+Allied ship stopped firing
+SHIP #8 :: Ships have crashed
+SHIP #9 :: Ship can move freely
+SHIP #0 :: Ship can move freely
+SHIP #1 :: Ships have crashed
+SHIP #2 :: Ship can move freely
+SHIP #3 :: Ships have crashed
+SHIP #4 :: Allied ship stopped firing
+SHIP #5 :: Ships have crashed
+SHIP #6 :: Allied ship stopped firing
+SHIP #7 :: Ships have crashed
+SHIP #8 :: Allied ship stopped firing
+SHIP #9 :: Ships have crashed
